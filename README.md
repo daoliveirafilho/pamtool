@@ -41,4 +41,24 @@ vi  ~/.profile
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+![Image_0201][Image_0201]
+
+![Image_0202][Image_0202]
+
 _For more examples, please refer to the [Documentation](https://example.com)_
+
+<!-- CONTATO -->
+## Contato
+
+Se preferir enviar-nos um e-mail, o formato &eacute; bastante r&iacute;gido, por favor use este modelo. Envie-o para contato em rekall.com.br, com uma linha Assunto: contendo a palavra "contato".
+
+De outra forma pode entrar em contato pelo linkedin abaixo:
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Image_0201]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_2021.jpg
+[Image_0202]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_2021.jpg
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/d-a-oliveira-filho/
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
