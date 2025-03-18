@@ -57,8 +57,8 @@ De outra forma pode entrar em contato pelo linkedin abaixo:
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Image_0201]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_2021.jpg
-[Image_0202]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_2021.jpg
+[Image_0201]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_0201.jpg
+[Image_0202]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_0202.jpg
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/d-a-oliveira-filho/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
