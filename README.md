@@ -9,7 +9,7 @@ Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 * 2Gb de RAM
 * 10Gb de HD
 
-### Configura&ccedil;&atilde;o do Php.
+### Configura&ccedil;&atilde;o do php-fpm.
 
 ### Instala&ccedil;&atilde;o do Nginx e suas depend&ecirc;ncias.
 
