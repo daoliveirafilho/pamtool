@@ -9,11 +9,7 @@ Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 * 2Gb de mem&oacute;ria RAM
 * 10Gb de storage
 
-### Configura&ccedil;&atilde;o do php-fpm.
-
-![Image_0210](assets/images/itens/IMG_0210.jpg)
-
-### Instala&ccedil;&atilde;o do Nginx e suas depend&ecirc;ncias.
+### Configura&ccedil;&atilde;o do Nginx.
 
 ```sh
 vi /usr/local/etc/nginx/nginx.conf
@@ -32,6 +28,10 @@ fastcgi_pass   [::1]:9000;
 ```
 
 ![Image_0209](assets/images/itens/IMG_0209.jpg)
+
+### Configura&ccedil;&atilde;o do php-fpm.
+
+![Image_0210](assets/images/itens/IMG_0210.jpg)
 
 ### Configura&ccedil;&atilde;o do phpPgAdmin.
 
