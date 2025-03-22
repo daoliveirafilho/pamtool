@@ -5,9 +5,9 @@
 ### Pr&eacute;-requisitos
 
 Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
+* 1 n&uacute;cleo de CPU.
 * 2Gb de RAM
 * 10Gb de HD
-* 1 n&uacute;cleo de CPU.
 
 ### Instala&ccedil;&atilde;o do Postgresql e suas depend&ecirc;ncias.
 
