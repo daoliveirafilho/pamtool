@@ -16,12 +16,6 @@ vi /usr/local/etc/nginx/nginx.conf
 ```
 
 ```sh
-http {
-include       mime.types;
-default_type  application/octet-stream;
-sendfile        on;
-keepalive_timeout  65;
-
 server {
 #listen 80;
 listen [::1]:80;
