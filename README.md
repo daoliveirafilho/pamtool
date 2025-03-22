@@ -43,12 +43,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ![Image_0202]
 
-
-<!-- CONTATO -->
-## Contato
-
-Se preferir enviar-nos um e-mail, o formato &eacute; bastante r&iacute;gido, por favor use este modelo. Envie-o para contato em rekall.com.br, com uma linha Assunto: contendo a palavra "contato".
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [Image_0201]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_0201.jpg
 [Image_0202]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_0202.jpg
