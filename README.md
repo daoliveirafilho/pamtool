@@ -6,8 +6,8 @@
 
 Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 * 1 n&uacute;cleo de CPU.
-* 2Gb de RAM
-* 10Gb de HD
+* 2Gb de mem&oacute;ria RAM
+* 10Gb de storage
 
 ### Configura&ccedil;&atilde;o do php-fpm.
 
