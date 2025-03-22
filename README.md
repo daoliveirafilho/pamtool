@@ -20,13 +20,6 @@ useradd -u 209 -g 209 -d /var/lib/pgsql postgres
 ```sh
 ./postgresql17.SlackBuild
 ```
-```sh
-
-```
-4. .
-```sh
-
-```
 
 <!-- DOCUMENTA&Ccedil;&Atilde;O -->
 ## Uso
