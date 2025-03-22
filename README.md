@@ -39,11 +39,6 @@ vi  ~/.profile
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-![Image_0201]
+![Image_0201](assets/images/itens/IMG_0201.jpg)
 
-![Image_0202]
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[Image_0201]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_0201.jpg
-[Image_0202]: https://raw.githubusercontent.com/daoliveirafilho/site/refs/heads/master/assets/images/itens/IMG_0202.jpg
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+![Image_0202](assets/images/itens/IMG_0202.jpg)
