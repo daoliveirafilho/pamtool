@@ -11,13 +11,19 @@ Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 
 ### Configura&ccedil;&atilde;o do php-fpm.
 
+![Image_0210](assets/images/itens/IMG_0210.jpg)
+
 ### Instala&ccedil;&atilde;o do Nginx e suas depend&ecirc;ncias.
 
 ```sh
 vi /usr/local/etc/nginx/nginx.conf
 ```
 
+![Image_0209](assets/images/itens/IMG_0209.jpg)
+
 ### Configura&ccedil;&atilde;o do phpPgAdmin.
+
+![Image_0211](assets/images/itens/IMG_0211.jpg)
 
 ### Instala&ccedil;&atilde;o do Postgresql e suas depend&ecirc;ncias.
 
@@ -33,12 +39,6 @@ bash /postgresql17.SlackBuild
 
 <!-- DOCUMENTA&Ccedil;&Atilde;O -->
 ## Uso
-
-![Image_0210](assets/images/itens/IMG_0210.jpg)
-
-![Image_0209](assets/images/itens/IMG_0209.jpg)
-
-![Image_0211](assets/images/itens/IMG_0211.jpg)
 
 ![Image_0201](assets/images/itens/IMG_0201.jpg)
 
