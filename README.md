@@ -46,6 +46,21 @@ index	index.html;
 
 ### Configura&ccedil;&atilde;o do php-fpm.
 
+```sh
+vi /usr/local/etc/php-fpm.d/www.conf
+```
+
+```sh
+[www]
+user = www
+group = www
+listen = [::1]:9000
+listen.owner = www
+listen.group = www
+listen.mode = 0440
+...
+```
+
 ![Image_0210](assets/images/itens/IMG_0210.jpg)
 
 ### Configura&ccedil;&atilde;o do phpPgAdmin.
