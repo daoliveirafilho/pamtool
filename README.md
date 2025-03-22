@@ -6,20 +6,11 @@
 
 Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 
-* 
-```sh
-bsddialog
-```
+* dialog
 
-* 
-```sh
-postgresql
-```
+* postgresql
 
-* 
-```sh
-syslogd
-```
+* syslog
 
 ### Instala&ccedil;&atilde;o
 
