@@ -14,7 +14,7 @@ Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 
 ### Instala&ccedil;&atilde;o
 
-1. Instale os pacotes e suas depend&ecirc;ncias co a ferramenta pkg install.
+1. Instale os pacotes e suas depend&ecirc;ncias.
 ```sh
 pkg install nome_do-pacote.x.y_z
 ```
