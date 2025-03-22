@@ -23,27 +23,24 @@ sendfile        on;
 keepalive_timeout  65;
 
 server {
-listen 80;
+#listen 80;
 listen [::1]:80;
 server_name	rekall.log darkstar.rekall.log;
-error_page   500 502 503 504  /50x.html;
+error_page 500 502 503 504 /50x.html;
 location = /50x.html {
 root   /usr/local/www;
 }
-error_page  404              /40x.html;
+error_page  404 /40x.html;
 location = /40x.html {
-root   /usr/local/www;
+root /usr/local/www;
 }
 
 location / {
-root           /usr/local/www;
+root /usr/local/www;
 index	index.html;
 }
-}
-}
+...
 ```
-
-
 
 ![Image_0209](assets/images/itens/IMG_0209.jpg)
 
