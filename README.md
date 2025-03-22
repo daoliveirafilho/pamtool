@@ -9,6 +9,16 @@ Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 * 2Gb de RAM
 * 10Gb de HD
 
+### Configura&ccedil;&atilde;o do Php.
+
+### Instala&ccedil;&atilde;o do Nginx e suas depend&ecirc;ncias.
+
+```sh
+vi /usr/local/etc/nginx/nginx.conf
+```
+
+### Configura&ccedil;&atilde;o do phpPgAdmin.
+
 ### Instala&ccedil;&atilde;o do Postgresql e suas depend&ecirc;ncias.
 
 ```sh
