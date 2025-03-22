@@ -35,9 +35,7 @@ vi  ~/.profile
 ```
 
 <!-- DOCUMENTA&Ccedil;&Atilde;O -->
-## Documenta&ccedil;&atilde;o
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+## Uso
 
 ![Image_0201](assets/images/itens/IMG_0201.jpg)
 
