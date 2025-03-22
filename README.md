@@ -6,7 +6,7 @@
 
 Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
 
-* dialog
+* bsddialog / dialog
 
 * postgresql
 
