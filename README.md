@@ -5,27 +5,21 @@
 ### Pr&eacute;-requisitos
 
 Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
+* 2Gb de RAM
+* 10Gb de HD
+* 1 n&uacute;cleo de CPU.
 
-* bsddialog / dialog
+### Instala&ccedil;&atilde;o do Postgresql e suas depend&ecirc;ncias.
 
-* postgresql
-
-* syslog
-
-### Instala&ccedil;&atilde;o
-
-1. Instale os pacotes e suas depend&ecirc;ncias.
 ```sh
-pkg install nome_do-pacote.x.y_z
-```
-2. Defina as restri&ccedil;&otilde;es do usuario.
-```sh
-vi  ~/.profile
+groupadd -g 209 postgres
 ```
 ```sh
-
+useradd -u 209 -g 209 -d /var/lib/pgsql postgres
 ```
-3. A sess&atilde;o ssh pode ser gravada pelo syslog.
+```sh
+./postgresql17.SlackBuild
+```
 ```sh
 
 ```
