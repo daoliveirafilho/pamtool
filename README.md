@@ -18,7 +18,7 @@ groupadd -g 209 postgres
 useradd -u 209 -g 209 -d /var/lib/pgsql postgres
 ```
 ```sh
-./postgresql17.SlackBuild
+bash /postgresql17.SlackBuild
 ```
 
 <!-- DOCUMENTA&Ccedil;&Atilde;O -->
