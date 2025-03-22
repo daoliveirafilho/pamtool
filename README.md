@@ -61,13 +61,7 @@ listen.mode = 0440
 ...
 ```
 
-![Image_0210](assets/images/itens/IMG_0210.jpg)
-
-### Configura&ccedil;&atilde;o do phpPgAdmin.
-
-```sh
-vi /usr/local/etc/nginx/nginx.conf
-```
+Optamos por adicionar uma aplica&ccedil;&atilde;o isolada, configurando o nginx.conf.
 
 ```sh
 location ^~ /phpPgAdmin {
@@ -80,6 +74,10 @@ fastcgi_param  SCRIPT_FILENAME	$document_root$fastcgi_script_name;
 fastcgi_pass   [::1]:9000;
 } }
 ```
+
+![Image_0210](assets/images/itens/IMG_0210.jpg)
+
+### Configura&ccedil;&atilde;o do phpPgAdmin.
 
 O phpPgAdmin deve ser descompactado no dirto&oacute;io /usr/local/www/phpPgAdmin/
 
