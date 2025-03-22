@@ -16,6 +16,44 @@ vi /usr/local/etc/nginx/nginx.conf
 ```
 
 ```sh
+http {
+include       mime.types;
+default_type  application/octet-stream;
+sendfile        on;
+keepalive_timeout  65;
+
+server {
+listen 80;
+listen [::1]:80;
+server_name	rekall.log darkstar.rekall.log;
+error_page   500 502 503 504  /50x.html;
+location = /50x.html {
+root   /usr/local/www;
+}
+error_page  404              /40x.html;
+location = /40x.html {
+root   /usr/local/www;
+}
+
+location / {
+root           /usr/local/www;
+index	index.html;
+}
+}
+}
+```
+
+
+
+![Image_0209](assets/images/itens/IMG_0209.jpg)
+
+### Configura&ccedil;&atilde;o do php-fpm.
+
+![Image_0210](assets/images/itens/IMG_0210.jpg)
+
+### Configura&ccedil;&atilde;o do phpPgAdmin.
+
+```sh
 location ^~ /phpPgAdmin {
 alias	/usr/local/www/phpPgAdmin;
 index	index.php;
@@ -26,14 +64,6 @@ fastcgi_param  SCRIPT_FILENAME	$document_root$fastcgi_script_name;
 fastcgi_pass   [::1]:9000;
 } }
 ```
-
-![Image_0209](assets/images/itens/IMG_0209.jpg)
-
-### Configura&ccedil;&atilde;o do php-fpm.
-
-![Image_0210](assets/images/itens/IMG_0210.jpg)
-
-### Configura&ccedil;&atilde;o do phpPgAdmin.
 
 ![Image_0211](assets/images/itens/IMG_0211.jpg)
 
