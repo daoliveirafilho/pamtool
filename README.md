@@ -34,9 +34,9 @@ bash /postgresql17.SlackBuild
 <!-- DOCUMENTA&Ccedil;&Atilde;O -->
 ## Uso
 
-![Image_0209](assets/images/itens/IMG_0209.jpg)
-
 ![Image_0210](assets/images/itens/IMG_0210.jpg)
+
+![Image_0209](assets/images/itens/IMG_0209.jpg)
 
 ![Image_0211](assets/images/itens/IMG_0211.jpg)
 
