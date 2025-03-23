@@ -26,7 +26,7 @@ error_page 500 502 503 504 /50x.html;
 location = /50x.html {
 root /usr/local/www;
 }
-error_page  404 /40x.html;
+error_page  404 402 403 404 /40x.html;
 location = /40x.html {
 root /usr/local/www;
 }
