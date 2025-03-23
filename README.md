@@ -23,7 +23,7 @@ vi /usr/local/etc/nginx/nginx.conf
 server {
 #listen 80;
 listen [::1]:80;
-server_name	rekall.log darkstar.rekall.log;
+server_name rekall.log.br darkstar.rekall.log.br;
 error_page 500 502 503 504 /50x.html;
 location = /50x.html {
 root /usr/local/www;
@@ -67,10 +67,10 @@ location ^~ /phpPgAdmin {
 alias	/usr/local/www/phpPgAdmin;
 index	index.php;
 location ~ \.php$ {
-root	/usr/local/www;
-include        fastcgi_params;
-fastcgi_param  SCRIPT_FILENAME	$document_root$fastcgi_script_name;
-fastcgi_pass   [::1]:9000;
+root /usr/local/www;
+include fastcgi_params;
+fastcgi_param SCRIPT_FILENAME	$document_root$fastcgi_script_name;
+fastcgi_pass [::1]:9000;
 } }
 ```
 
