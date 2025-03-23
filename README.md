@@ -6,10 +6,9 @@ _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de p
 
 ### Pr&eacute;-requisitos
 
-Os requisitos m&iacute;nimos para rodar o _???Tool_ s&atilde;o:
-* 1 n&uacute;cleo de CPU.
-* 2Gb de mem&oacute;ria RAM
-* 10Gb de storage
+* 1-8 n&uacute;cleo de CPU.
+* 1-16Gb de mem&oacute;ria RAM
+* 128Gb de storage
 
 ### Configura&ccedil;&atilde;o do Nginx.
 
