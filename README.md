@@ -49,7 +49,7 @@ vi /usr/local/etc/php-fpm.d/www.conf
 [www]
 user = www
 group = www
-listen = [::1]:9000
+listen = [::1]:99000
 listen.owner = www
 listen.group = www
 listen.mode = 0440
@@ -68,7 +68,7 @@ location ~ \.php$ {
 root /usr/local/www;
 include fastcgi_params;
 fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-fastcgi_pass [::1]:9000;
+fastcgi_pass [::1]:99000;
 } }
 ```
 
