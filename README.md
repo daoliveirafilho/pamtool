@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 
-# O _???Tool_ &eacute; uma solu&ccedil;&atilde;o de gerenciamento de acesso privilegiado para ambientes h&iacute;bridos.
+# O _PAMTool_ &eacute; uma solu&ccedil;&atilde;o de gerenciamento de acesso privilegiado para ambientes h&iacute;bridos.
 
 _PAM &eacute; um subcampo da Ger&ecirc;ncia de Identidade e Acesso (IAM)._
 
