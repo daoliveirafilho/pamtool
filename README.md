@@ -64,12 +64,12 @@ Optamos por adicionar uma aplica&ccedil;&atilde;o isolada, configurando o nginx.
 
 ```sh
 location ^~ /phpPgAdmin {
-alias	/usr/local/www/phpPgAdmin;
-index	index.php;
+alias /usr/local/www/phpPgAdmin;
+index index.php;
 location ~ \.php$ {
 root /usr/local/www;
 include fastcgi_params;
-fastcgi_param SCRIPT_FILENAME	$document_root$fastcgi_script_name;
+fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
 fastcgi_pass [::1]:9000;
 } }
 ```
