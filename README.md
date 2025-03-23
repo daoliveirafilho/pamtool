@@ -32,7 +32,7 @@ root /usr/local/www;
 }
 location / {
 root /usr/local/www;
-index	index.html;
+index index.html;
 }
 ...
 ```
