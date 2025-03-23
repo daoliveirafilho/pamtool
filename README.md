@@ -6,7 +6,7 @@ _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de p
 
 ### Pr&eacute;-requisitos
 
-* 1-8 n&uacute;cleo(s) de CPU.
+* 1-8 n&uacute;cleo(s) de CPU
 * 1-16Gb de mem&oacute;ria RAM
 * 128Gb de storage
 
