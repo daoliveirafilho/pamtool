@@ -2,9 +2,9 @@
 
 # O _???Tool_ &eacute; uma solu&ccedil;&atilde;o de gerenciamento de acesso privilegiado para ambientes h&iacute;bridos.
 
-_Ele ajuda a reduzir o risco de ataques cibern&eacute;ticos e a mitigar danos causados por amea&ccedil;as externas e internas. PAM &eacute; um subcampo da Ger&ecirc;ncia de Identidade e Acesso (IAM)._
+_PAM &eacute; um subcampo da Ger&ecirc;ncia de Identidade e Acesso (IAM)._
 
-_Ajuda a identificar e remediar riscos, reduzir a superf&iacute;cie de ataque da organiza&ccedil;&atilde;o, prevenir e mitigar danos causados por ataques externos e amea&ccedil;as internas. Monitora, detecta e previne o acesso privilegiado n&atilde;o autorizado. Identifica atividades maliciosas relacionadas ao abuso de privil&eacute;gios._
+_Identificar e remediar riscos, reduzir a superf&iacute;cie de ataque da organiza&ccedil;&atilde;o, prevenir e mitigar danos causados por ataques externos e amea&ccedil;as internas. Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios._
 
 ### Pr&eacute;-requisitos
 
@@ -76,7 +76,7 @@ fastcgi_pass   [::1]:9000;
 
 ### Configura&ccedil;&atilde;o do phpPgAdmin.
 
-O phpPgAdmin deve ser descompactado no dirto&oacute;io /usr/local/www/phpPgAdmin/
+O phpPgAdmin deve ser descompactado no diret&oacute;rio /usr/local/www/phpPgAdmin/
 
 ![Image_0211](assets/images/itens/IMG_0211.jpg)
 
