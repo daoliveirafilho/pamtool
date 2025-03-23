@@ -4,7 +4,7 @@
 
 _PAM &eacute; um subcampo da Ger&ecirc;ncia de Identidade e Acesso (IAM)._
 
-_Identificar e remediar riscos, reduzir a superf&iacute;cie de ataque da organiza&ccedil;&atilde;o, prevenir e mitigar danos causados por ataques externos e amea&ccedil;as internas. Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios._
+_Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, reduzir a superf&iacute;cie de ataque, prevenir e mitigar danos causados por ataques externos e amea&ccedil;as internas._
 
 ### Pr&eacute;-requisitos
 
