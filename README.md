@@ -38,7 +38,7 @@ index index.html;
 
 ### Configura&ccedil;&atilde;o do php-fpm.
 
-PHP-FPM, ou “PHP FastCGI Process Manager,” &eacute; um gerenciador de processos FastCGI avançado e de alto desempenho para PHP.
+PHP-FPM, ou “PHP FastCGI Process Manager,” &eacute; um gerenciador de processos FastCGI avan&ccedil;ado e de alto desempenho para PHP.
 
 ```sh
 [www]
