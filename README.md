@@ -48,10 +48,10 @@ listen = [::1]:9900
 listen.owner = www
 listen.group = www
 listen.mode = 0440
+...
 ```
 
 ![Image_0210](assets/images/itens/IMG_0210.jpg)
-
 
 ```sh
 location ^~ /phpPgAdmin {
@@ -67,7 +67,7 @@ fastcgi_pass [::1]:9900;
 
 ### Configura&ccedil;&atilde;o do phpPgAdmin.
 
-O phpPgAdmin pode ser  descompactado no diret&oacute;rio /usr/local/www/phpPgAdmin/
+O phpPgAdmin &eacute; a principal ferramenta de gerenciamento de c&oacute;digo aberto para Postgres, o pacote deve ser descompactado no diret&oacute;rio referente ao alias configurado em nginx.conf.
 
 ![Image_0211](assets/images/itens/IMG_0211.jpg)
 
