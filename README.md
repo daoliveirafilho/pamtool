@@ -12,7 +12,7 @@ _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de p
 
 ### Configura&ccedil;&atilde;o do Nginx.
 
-O servidor Nginx pode ser configurado para gerenciar m&uacute;ltiplos processos e atender requisi&ccedil;&otilde;es web com efici&ecic;ncia.
+O Nginx pode atuar como um proxy reverso e gerenciar diretamente o tr&aacute;fego HTTP de entrada para o O PHP-FPM.
 
 ```sh
 server {
@@ -38,9 +38,7 @@ index index.html;
 
 ### Configura&ccedil;&atilde;o do php-fpm.
 
-```sh
-vi /usr/local/etc/php-fpm.d/www.conf
-```
+PHP-FPM, ou “PHP FastCGI Process Manager,” &eacute; um gerenciador de processos FastCGI avançado e de alto desempenho para PHP.
 
 ```sh
 [www]
