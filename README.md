@@ -12,7 +12,7 @@ _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de p
 
 ### Configura&ccedil;&atilde;o do Nginx.
 
-O Nginx pode atuar como um proxy reverso e gerenciar diretamente o tr&aacute;fego HTTP de entrada para o O PHP-FPM.
+O Nginx &eacute; um servidor web que pode funcionar como um proxy reverso, encaminhando solicita&ccedil;&otilde;es de clientes para o PHP-FPM e retornando as respostas processadas de volta para os clientes.
 
 ```sh
 server {
@@ -67,21 +67,9 @@ fastcgi_pass [::1]:9900;
 
 ### Configura&ccedil;&atilde;o do phpPgAdmin.
 
-O phpPgAdmin deve ser descompactado no diret&oacute;rio /usr/local/www/phpPgAdmin/
+O phpPgAdmin pode ser  descompactado no diret&oacute;rio /usr/local/www/phpPgAdmin/
 
 ![Image_0211](assets/images/itens/IMG_0211.jpg)
-
-### Instala&ccedil;&atilde;o do Postgresql e suas depend&ecirc;ncias.
-
-```sh
-groupadd -g 209 postgres
-```
-```sh
-useradd -u 209 -g 209 -d /var/lib/pgsql postgres
-```
-```sh
-bash /postgresql17.SlackBuild
-```
 
 <!-- DOCUMENTA&Ccedil;&Atilde;O -->
 ## Uso
@@ -89,3 +77,17 @@ bash /postgresql17.SlackBuild
 ![Image_0201](assets/images/itens/IMG_0201.jpg)
 
 ![Image_0202](assets/images/itens/IMG_0202.jpg)
+
+![Image_0214](assets/images/itens/IMG_0214.jpg)
+
+![Image_0215](assets/images/itens/IMG_0215.jpg)
+
+![Image_0216](assets/images/itens/IMG_0216.jpg)
+
+![Image_0217](assets/images/itens/IMG_0217.jpg)
+
+![Image_0218](assets/images/itens/IMG_0218.jpg)
+
+![Image_0219](assets/images/itens/IMG_0219.jpg)
+
+![Image_0220](assets/images/itens/IMG_0220.jpg)
