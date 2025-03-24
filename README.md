@@ -12,7 +12,7 @@ _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de p
 
 ### Configura&ccedil;&atilde;o do Nginx.
 
-O servidor Nginx permite a configura&ccedil;&atilde; de aplica&ccedil;&otilde;es isoladas.
+O servidor Nginx pode ser configurado para gerenciar m&uacute;ltiplos processos e atender requisi&ccedil;&otilde;es web com efici&ecic;ncia.
 
 ```sh
 server {
