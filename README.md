@@ -69,6 +69,10 @@ fastcgi_pass [::1]:9900;
 
 O phpPgAdmin &eacute; a principal ferramenta de gerenciamento de c&oacute;digo aberto para Postgres, o pacote deve ser descompactado no diret&oacute;rio referente ao alias configurado em nginx.conf.
 
+```sh
+drwxr-xr-x 12 www www 1536 Mar 8 12:19 /usr/local/www/phpPgAdmin
+```
+
 ![Image_0211](assets/images/itens/IMG_0211.jpg)
 
 <!-- DOCUMENTA&Ccedil;&Atilde;O -->
