@@ -18,7 +18,7 @@ O Nginx &eacute; um servidor web que pode funcionar como um proxy reverso, encam
 server {
 #listen 80;
 listen [::1]:80;
-server_name rekall.log.br darkstar.rekall.log.br;
+server_name dominio.log.br computador.dominio.log.br;
 error_page 500 502 503 504 /50x.html;
 location = /50x.html {
 root /usr/local/www;
