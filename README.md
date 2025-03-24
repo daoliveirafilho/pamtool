@@ -12,9 +12,7 @@ _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de p
 
 ### Configura&ccedil;&atilde;o do Nginx.
 
-```sh
-vi /usr/local/etc/nginx/nginx.conf
-```
+O servidor Nginx permite a configura&ccedil;&atilde; de aplica&ccedil;&otilde;es isoladas.
 
 ```sh
 server {
