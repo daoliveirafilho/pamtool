@@ -10,7 +10,7 @@ _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de p
 * 1-16Gb de mem&oacute;ria RAM
 * 128Gb de storage
 
-### Configura&ccedil;&atilde;o do Nginx.
+### Nginx.
 
 O Nginx &eacute; um servidor web que pode funcionar como um proxy reverso, encaminhando solicita&ccedil;&otilde;es de clientes para o PHP-FPM e retornando as respostas processadas de volta para os clientes.
 
@@ -36,9 +36,9 @@ index index.html;
 
 ![Image_0209](assets/images/itens/IMG_0209.jpg)
 
-### Configura&ccedil;&atilde;o do php-fpm.
+### PHP-FPM.
 
-PHP-FPM, ou “PHP FastCGI Process Manager,” &eacute; um gerenciador de processos FastCGI avan&ccedil;ado e de alto desempenho para PHP.
+O “PHP FastCGI Process Manager,” &eacute; um gerenciador de processos FastCGI avan&ccedil;ado e de alto desempenho para PHP.
 
 ```sh
 [www]
@@ -65,7 +65,7 @@ fastcgi_pass [::1]:9900;
 } }
 ```
 
-### Configura&ccedil;&atilde;o do phpPgAdmin.
+### PHPPgAdmin.
 
 O phpPgAdmin &eacute; uma ferramenta de gerenciamento para Postgres, o pacote deve ser descompactado no diret&oacute;rio referente ao alias configurado em nginx.conf.
 
