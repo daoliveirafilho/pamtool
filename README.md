@@ -4,7 +4,7 @@
 
 _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque._
 
-### Pr&eacute;-requisitos
+### Recomenda&ccedil;&otilde;es de configura&ccedil;&otilde;es de hardware
 
 * 1-8 n&uacute;cleo(s) de CPU
 * 1-16Gb de mem&oacute;ria RAM
