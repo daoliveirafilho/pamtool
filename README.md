@@ -95,8 +95,8 @@ Atualizado pela &uacute;ltima vez: 2025-03-28
 
 ### Plataformas compat&iacute;veis
 
-* SLACKWARE Linux 15 ou posterior
-* SUSE Linux Enterprise Server (SLES) 15 SP3 ou posterior
+* FreeBSD 14.1 ou posterior
+* GNU/Linux portando o kernel 5 ou posterior
 
 ### Requisitos de hardware
 
