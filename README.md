@@ -4,12 +4,6 @@
 
 _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque._
 
-### Recomenda&ccedil;&otilde;es para um hardware adequado.
-
-* 1-8 n&uacute;cleo(s) de CPU
-* 1-16Gb de mem&oacute;ria RAM
-* 128Gb de storage
-
 ### Nginx.
 
 O Nginx &eacute; um servidor web que pode funcionar como um proxy reverso, encaminhando solicita&ccedil;&otilde;es de clientes para o PHP-FPM e retornando as respostas processadas de volta para os clientes.
@@ -95,3 +89,9 @@ drwxr-xr-x 12 www www 1536 Mar 8 12:19 /usr/local/www/phpPgAdmin
 ![Image_0219](assets/images/itens/IMG_0219.jpg)
 
 ![Image_0220](assets/images/itens/IMG_0220.jpg)
+
+### Recomenda&ccedil;&otilde;es para um hardware adequado.
+
+* 1-8 n&uacute;cleo(s) de CPU
+* 1-16Gb de mem&oacute;ria RAM
+* 128Gb de storage
