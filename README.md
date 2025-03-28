@@ -4,7 +4,7 @@
 
 _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque._
 
-### Nginx.
+### Nginx
 
 O Nginx &eacute; um servidor web que pode funcionar como um proxy reverso, encaminhando solicita&ccedil;&otilde;es de clientes para o PHP-FPM e retornando as respostas processadas de volta para os clientes.
 
@@ -30,7 +30,7 @@ index index.html;
 
 ![Image_0209](assets/images/itens/IMG_0209.jpg)
 
-### PHP-FPM.
+### PHP-FPM
 
 O “PHP FastCGI Process Manager,” &eacute; um gerenciador de processos FastCGI avan&ccedil;ado e de alto desempenho para PHP.
 
@@ -59,7 +59,7 @@ fastcgi_pass [::1]:9900;
 } }
 ```
 
-### PHPPgAdmin.
+### PHPPgAdmin
 
 O phpPgAdmin &eacute; uma ferramenta de gerenciamento para Postgres, o pacote deve ser descompactado no diret&oacute;rio referente ao alias configurado em nginx.conf.
 
