@@ -90,7 +90,7 @@ drwxr-xr-x 12 www www 1536 Mar 8 12:19 /usr/local/www/phpPgAdmin
 
 ![Image_0220](assets/images/itens/IMG_0220.jpg)
 
-### Pr&eacute;-requisitos do sistema
+# Pr&eacute;-requisitos do sistema
 Atualizado pela &uacute;ltima vez: 2025-03-28
 
 ### Plataformas compat&iacute;veis
