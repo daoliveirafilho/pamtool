@@ -90,7 +90,19 @@ drwxr-xr-x 12 www www 1536 Mar 8 12:19 /usr/local/www/phpPgAdmin
 
 ![Image_0220](assets/images/itens/IMG_0220.jpg)
 
-### Recomenda&ccedil;&otilde;es para um hardware adequado.
+### Pr&eacute;-requisitos do sistema
+Atualizado pela &uacute;ltima vez: 2025-03-28
+
+### Plataformas compat&iacute;veis
+
+* SUSE Linux Enterprise Server (SLES) 15 SP3 ou posterior
+* SLACKWARE Linux 15 ou posterior
+
+### Requisitos de hardware
+
+Certifique-se de que seu sistema atenda todos os pr&eacute;-requisitos antes de instalar o produto.
+
+Recomenda-se tamb&eacute;m que voc&ecirc; atenda aos seguintes requisitos:
 
 * 1-8 n&uacute;cleo(s) de CPU
 * 1-16Gb de mem&oacute;ria RAM
