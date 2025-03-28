@@ -95,5 +95,3 @@ drwxr-xr-x 12 www www 1536 Mar 8 12:19 /usr/local/www/phpPgAdmin
 ![Image_0219](assets/images/itens/IMG_0219.jpg)
 
 ![Image_0220](assets/images/itens/IMG_0220.jpg)
-
-https://www.youtube.com/shorts/9UhI7jPe1is
