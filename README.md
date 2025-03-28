@@ -95,8 +95,8 @@ Atualizado pela &uacute;ltima vez: 2025-03-28
 
 ### Plataformas compat&iacute;veis
 
-* SUSE Linux Enterprise Server (SLES) 15 SP3 ou posterior
 * SLACKWARE Linux 15 ou posterior
+* SUSE Linux Enterprise Server (SLES) 15 SP3 ou posterior
 
 ### Requisitos de hardware
 
