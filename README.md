@@ -100,10 +100,6 @@ Atualizado pela &uacute;ltima vez: 2025-03-28
 
 ### Requisitos de hardware
 
-Certifique-se de que seu sistema atenda todos os pr&eacute;-requisitos antes de instalar o produto.
-
-Recomenda-se tamb&eacute;m que voc&ecirc; atenda aos seguintes requisitos:
-
 * 1-8 n&uacute;cleo(s) de CPU
 * 1-16Gb de mem&oacute;ria RAM
 * 128Gb de storage
