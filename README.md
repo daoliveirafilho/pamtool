@@ -87,7 +87,7 @@ drwxr-xr-x 12 www www 1536 Mar 8 12:19 /usr/local/www/phpPgAdmin
 ![Image_0218](assets/images/itens/IMG_0218.jpg)
 
 ![Image_0219](assets/images/itens/IMG_0219.jpg)
-
+https://www.youtube.com/shorts/0s4NslQ1Mac
 ![Image_0220](assets/images/itens/IMG_0220.jpg)
 
 # Pr&eacute;-requisitos do sistema
