@@ -4,9 +4,11 @@
 
 _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque._
 
-## Uso
+## Contas de servi&ccedil;o e administradores sombra n&atilde;o detectados
 
 ![Image_0201](assets/images/itens/IMG_0201.jpg)
+
+## Protegendo o acesso ao pr&oacute;prio PAM
 
 ![Image_0202](assets/images/itens/IMG_0202.jpg)
 
