@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 
-# Solu&ccedil;&atilde;o para gerenciamento de acesso privilegiado em ambientes h&iacute;bridos.
+# Solu&ccedil;&atilde;o para gerenciamento de acesso privilegiado em ambientes h&iacute;bridos
 
 _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque._
 
