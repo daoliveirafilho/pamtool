@@ -27,7 +27,7 @@ drwxr-xr-x 12 www www /usr/local/www/phpPgAdmin
 
 ![Image_0211](assets/images/itens/IMG_0211.jpg)
 
-## Contas de servi&ccedil;o e administradores sombra n&atilde;o detectados
+### Contas de servi&ccedil;o e administradores sombra n&atilde;o detectados
 
 ![Image_0217](assets/images/itens/IMG_0217.jpg)
 
