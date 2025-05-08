@@ -8,7 +8,6 @@
 
 _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque._
 
-
 ![Image_0201](assets/images/itens/IMG_0201.jpg)
 
 ![Image_0202](assets/images/itens/IMG_0202.jpg)
