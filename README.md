@@ -2,6 +2,10 @@
 
 # Solu&ccedil;&atilde;o para gerenciamento de acesso privilegiado em ambientes h&iacute;bridos
 
+### Funcionalidades de identifica&ccedil;&atilde;o de falhas, provisionamento, configura&ccedil;&atilde;o, invent&aacute;rio, performance e seguran&ccedil;a.
+
+### Permite integra&ccedil;&atilde;o com outras plataformas.
+
 _Monitorar, detectar e previnir atividades maliciosas relacionadas ao abuso de privil&eacute;gios, com o objetivo de reduzir a superf&iacute;cie de ataque._
 
 
